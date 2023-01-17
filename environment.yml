@@ -1,0 +1,9 @@
+name: base
+dependencies:
+    - python
+    - numpy
+    - scipy
+    - matplotlib
+    - jupyter
+    - ipykernel
+    - ipywidgets
