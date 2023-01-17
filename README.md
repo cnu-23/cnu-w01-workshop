@@ -127,7 +127,7 @@ Now, you are going to log your changes using git, and update the GitHub repo wit
 
 Your changes have now been committed to your *local* repo.
 
-*If at this point you see an error saying "Make sure you configure your 'user.email' and 'user.name' in git", skip to the section below, and come back here after.*
+*If at this point you see an error saying "Make sure you configure your 'user.email' and 'user.name' in git", [skip to the section below](#error-with-git-configuration-make-sure-you-configure-your-useremail-and-username-in-git), and come back here after.*
 
 #### Navigator:
 
