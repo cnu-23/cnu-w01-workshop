@@ -1,1 +1,1 @@
-FROM ghcr.io/lnay/cnu-python-base
+FROM ghcr.io/cnu-23/cnu-python-base
